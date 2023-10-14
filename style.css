@@ -1,0 +1,11 @@
+#countdown-clock {
+  font-size: 24px;
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+}
+
+#countdown-clock span {
+  margin: 0 10px;
+}
